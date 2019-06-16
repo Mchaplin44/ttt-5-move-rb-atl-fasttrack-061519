@@ -13,8 +13,8 @@ def  input_to_index(input)
 
 end 
  
-  def move(array, index, value)
+  def move(array, index, value = "X")
     board[index] = value
   end
-  update_array_at_with(board,0,"X")
-  def to_i
+  
+  
