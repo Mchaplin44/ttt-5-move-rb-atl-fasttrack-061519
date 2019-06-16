@@ -9,7 +9,7 @@ end
 # code your input_to_index and move method here!
  
 def  #input_to_index(input)
- if = '5'.to_i 
+ if = '5'.to_i "4"
 
 end 
  
